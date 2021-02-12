@@ -1,0 +1,15 @@
+.logo{
+  top: 36px;
+  left: 5px;
+}
+
+#navbar1{
+
+
+  background-color:rgb(0,0,0);
+  background-image:url(http://www.zingerbugimages.com/backgrounds/ivory_ornate_floral_wallpaper_tileable.jpg);
+  background-position:top left;
+  background-repeat:repeat;
+  background-attachment:fixed;
+
+}

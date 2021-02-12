@@ -1,0 +1,46 @@
+
+.jumbotron {
+
+
+
+height: 100vh;
+background-color:rgb(0,0,0);
+background-image:url(http://www.zingerbugimages.com/backgrounds/ivory_ornate_floral_wallpaper_tileable.jpg);
+background-position:top left;
+background-repeat:repeat;
+background-attachment:fixed;
+
+
+
+}
+.h1{
+  font-size: 50px;
+
+
+
+}
+.hr{
+
+ border: 1px solid #C60C30;
+ width:50%;
+ margin: 0 ;
+ margin-top: 30px;
+
+
+}
+
+
+.p1{
+  font-style:italic ;
+  margin-top:20px;
+
+
+
+}
+
+.p{
+  margin-top: 30px;
+  font-size: 13px;
+    opacity: 0.5;
+
+}
